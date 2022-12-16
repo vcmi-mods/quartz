@@ -1,0 +1,24 @@
+{
+	"name" : "Quartz",
+	"description" : "HoMM3 towns in the mirror",
+	"author" : "feanor, Bes",
+	"version" : "1.0",
+	"modType" : "Graphics",	
+	"contact" : "",
+	"changelog" :
+	{
+		"1.0"   : [ "Initial release" ]
+	},
+	"factions" : 
+	[ 
+	"config/qCastle",
+	"config/qRampart",
+	"config/qTower",
+	"config/qInferno",
+	"config/qNecropolis",
+	"config/qDungeon",
+	"config/qStronghold",
+	"config/qFortress",
+	"config/qConflux"
+	]
+}
