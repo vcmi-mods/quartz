@@ -3,12 +3,24 @@
 	"description" : "HoMM3 towns in the mirror",
 	"author" : "feanor, Bes",
 	"version" : "1.0",
-	"modType" : "Graphical town modifications",	
+	"modType" : "Graphical",	
 	"contact" : "",
 	"changelog" :
 	{
 		"1.0"   : [ "Initial release" ]
 	},
+	"conflicts" : 
+	[
+		"new-backgrounds",
+		"lenin-ghost",
+		"lotrd-townscreens",
+		"another-rampart",
+		"sand-tower",
+		"autumn-rampart",
+		"red-castle",
+		"ghost-necropolis",
+		"tides-of-war"
+	],
 	"factions" : 
 	[ 
 	"config/qCastle",
